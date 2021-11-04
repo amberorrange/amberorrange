@@ -13,7 +13,7 @@ Hi, I'm Amber 👋 (she/her)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amberorrange&layout=compact&theme=calm&card_width=450)](https://github.com/amberorrange/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amberorrange&repo=BacklogTracker&theme=calm&show_owner=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amberorrange&repo=BacklogTracker&theme=calm&show_owner=True)](https://github.com/amberorrange/BacklogTracker)
 
 
 
