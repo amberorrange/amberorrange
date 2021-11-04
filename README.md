@@ -2,8 +2,9 @@
 
 Hi, I'm Amber Orrange (she/her)
 - 🔭 Former professional basketall player turned software engineer!
-- Located in Houston, Texas
-- 💬 Ask me about video game design!
+- 🌱 I’m currently learning React.
+- 📍 Located in Houston, Texas
+- ⚡ Fun fact: Intrested in video game design!
 
 
 <!--
