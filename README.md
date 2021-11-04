@@ -18,6 +18,12 @@ Hi, I'm Amber 👋 (she/her)
 
 
 
+<a href="https://github.com/amberorrange/BacklogTracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amberorrange&repo=BacklogTracker&theme=calm&show_owner=True" />
+</a>
+
+
+
 
 
 
