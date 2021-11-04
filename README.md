@@ -8,20 +8,10 @@ Hi, I'm Amber 👋 (she/her)
 
 ##
 
-[![Amber's GitHub stats](https://github-readme-stats.vercel.app/api?username=amberorrange&show_icons=true&theme=calm&hide=contribs)](https://github.com/amberorrange/github-readme-stats)
+[![Amber's GitHub stats](https://github-readme-stats.vercel.app/api?username=amberorrange&show_icons=true&theme=calm&hide=contribs)](https://github.com/amberorrange)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amberorrange&layout=compact&theme=calm&card_width=450)](https://github.com/amberorrange/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amberorrange&repo=BacklogTracker&theme=calm&show_owner=True)](https://github.com/amberorrange/BacklogTracker)
-
-
-
-
-<a href="https://github.com/amberorrange/BacklogTracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amberorrange&repo=BacklogTracker&theme=calm&show_owner=True" />
-</a>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amberorrange&layout=compact&theme=calm&card_width=450)](https://github.com/amberorrange)
 
 
 
