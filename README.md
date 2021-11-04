@@ -1,11 +1,15 @@
 [![README header](https://user-images.githubusercontent.com/80993098/140383970-fcf7773d-58ca-4e24-948e-8332a26e02e2.png)](https://amberorrange.me)
 
 Hi, I'm Amber Orrange (she/her)
-- 🏀  ➡️  🖥️  Former professional basketall player turned software engineer!
+- 🏀  ➡️  🖥️  Former professional basketball player turned software engineer!
 - 📖  I’m currently learning React!
 - 📍 Located in Houston, Texas
 - ⚡ Fun fact: Interested in video game design! 🎮 
 
+____________________________________________
+
+
+[![Amber's GitHub stats](https://github-readme-stats.vercel.app/api?username=amberorrange&show_icons=true)](https://github.com/amberorrange/github-readme-stats)
 
 <!--
 **amberorrange/amberorrange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
