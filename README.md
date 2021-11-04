@@ -6,15 +6,14 @@ Hi, I'm Amber 👋 (she/her)
 - 📍 Located in Houston, Texas
 - ⚡ Fun fact: Interested in video game design! 🎮 
 
-____________________________________________
-
+##
 
 [![Amber's GitHub stats](https://github-readme-stats.vercel.app/api?username=amberorrange&show_icons=true&theme=calm&hide=contribs)](https://github.com/amberorrange/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amberorrange&layout=compact&theme=calm&card_width=450)](https://github.com/amberorrange/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amberorrange&repo=BacklogTracker&theme=calm&card_width=450)](https://github.com/amberorrange/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amberorrange&repo=BacklogTracker&theme=calm&show_owner=True)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
