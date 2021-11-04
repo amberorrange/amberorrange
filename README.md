@@ -9,7 +9,7 @@ Hi, I'm Amber Orrange (she/her)
 ____________________________________________
 
 
-[![Amber's GitHub stats](https://github-readme-stats.vercel.app/api?username=amberorrange&show_icons=true&theme=vision-friendly-dark)](https://github.com/amberorrange/github-readme-stats)
+[![Amber's GitHub stats](https://github-readme-stats.vercel.app/api?username=amberorrange&show_icons=true&theme=vision-friendly-dark&card_width=2)](https://github.com/amberorrange/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amberorrange&layout=compact&theme=vision-friendly-dark)](https://github.com/amberorrange/github-readme-stats)
