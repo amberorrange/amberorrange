@@ -1,7 +1,8 @@
 [![README header](https://user-images.githubusercontent.com/80993098/140383970-fcf7773d-58ca-4e24-948e-8332a26e02e2.png)](https://amberorrange.me)
 
 
-### Hi, I'm Amber
+### I'm Amber, a former professional basketball player turned software engineer and a graduate of Hackbright Academy's Full-time Software Engineering Program. 
+
 
 <!--
 **amberorrange/amberorrange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
