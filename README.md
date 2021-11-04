@@ -1,6 +1,6 @@
 [![README header](https://user-images.githubusercontent.com/80993098/140383970-fcf7773d-58ca-4e24-948e-8332a26e02e2.png)](https://amberorrange.me)
 
-Hi, Im Amber Orrange (she/her)
+Hi, I'm Amber Orrange (she/her)
 - 🔭 Former professional basketall player turned software engineer!
 - Located in Houston, Texas
 - 💬 Ask me about video game design!
