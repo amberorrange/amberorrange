@@ -1,10 +1,11 @@
-[![README header](https://user-images.githubusercontent.com/80993098/140383970-fcf7773d-58ca-4e24-948e-8332a26e02e2.png)](https://amberorrange.me)
+[![README header](https://user-images.githubusercontent.com/80993098/140383970-fcf7773d-58ca-4e24-948e-8332a26e02e2.png)](https://github.com/amberorrange)
 
 Hi, I'm Amber 👋 (she/her)
 - 🏀  ➡️  🖥️  Former professional basketball player turned software engineer!
 - 📖  I’m currently learning React!
 - 📍 Located in Houston, Texas
 - ⚡ Fun fact: Interested in video game design! 🎮 
+- Check out my personal website <a src="amberorrange.me">here</a>!
 
 ##
 
