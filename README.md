@@ -3,7 +3,6 @@
 Hi, I'm Amber 👋 (she/her)
 - 🏀  ➡️ 👩🏾‍💻 Former professional basketball player turned software engineer!
 - 📖  I’m currently learning React!
-- 📍 Located in Houston, Texas
 - ⚡ Fun fact: Interested in video game design! 🎮 
 - 🖥️ Check out my personal website [here]!
 
