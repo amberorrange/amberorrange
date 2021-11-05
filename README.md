@@ -5,8 +5,10 @@ Hi, I'm Amber 👋 (she/her)
 - 📖  I’m currently learning React!
 - 📍 Located in Houston, Texas
 - ⚡ Fun fact: Interested in video game design! 🎮 
-- Check out my personal website <a src="amberorrange.me">here</a>!
+- 💼 Check out my personal website [here]!
 
+
+[here]: https://amberorrange.me
 ##
 
 [![Amber's GitHub stats](https://github-readme-stats.vercel.app/api?username=amberorrange&show_icons=true&theme=calm&hide=contribs)](https://github.com/amberorrange)
